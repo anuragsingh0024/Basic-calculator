@@ -10,4 +10,4 @@
 - Html , Css , Js
 
 ## Preview
-<a href = "calculatourapp.netlify.app"> Click Here </a>
+<a href = "https://calculatourapp.netlify.app"> Click Here </a>
